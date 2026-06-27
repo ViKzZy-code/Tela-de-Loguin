@@ -122,7 +122,7 @@ body {
 }
 
 .img-login {
-    background-image: url(./assents/img/login.jpg);
+    background-image: url(assents/img/login.jpg);
     border-radius: 64px 0 0 64px ; 
     transition: transform .5s, opacity .5s;
 }
@@ -131,7 +131,7 @@ body {
 /* CRIAR CONTA */
 
 .img-criar-conta {
-    background-image: url(./assents/img/register.jpg);
+    background-image: url(assents/img/register.jpg);
     border-radius: 0 64px 64px 0; 
     transition: transform .5s, opacity .5s;
 }
